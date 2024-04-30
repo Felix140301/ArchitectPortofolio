@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64498a1f.css",
+    "main.js": "/static/js/main.79154ea7.js",
+    "static/js/453.2d8b4934.chunk.js": "/static/js/453.2d8b4934.chunk.js",
+    "static/media/MagdaProiect1.png": "/static/media/MagdaProiect1.d12b3bce074d947fc643.png",
+    "static/media/MagdaHero.jpg": "/static/media/MagdaHero.7c86cd29d154ce3f91f5.jpg",
+    "index.html": "/index.html",
+    "main.64498a1f.css.map": "/static/css/main.64498a1f.css.map",
+    "main.79154ea7.js.map": "/static/js/main.79154ea7.js.map",
+    "453.2d8b4934.chunk.js.map": "/static/js/453.2d8b4934.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64498a1f.css",
+    "static/js/main.79154ea7.js"
+  ]
+}
